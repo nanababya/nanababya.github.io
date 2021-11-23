@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## 个人简介
+姓名：熊娜
+性别：女
+出生日期：2002.11.09
+籍贯：湖南娄底
+专业：审计
+政治面貌：共青团员
+电子邮件：xn1357580622@qq.com
 
-You can use the [editor on GitHub](https://github.com/nanababya/nanababya.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 技能总结
+英语四级，excel,powerpoint,dreamweaver基础操作
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 兴趣爱好
+绘画，手工，羽毛球
 
-### Markdown
+### 教育背景
+湖南工商大学本科在读
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 主修课程
+审计学
 
-```markdown
-Syntax highlighted code block
+### 获奖情况
+暂无
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nanababya/nanababya.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 自我评价
+本人乐观开朗，热情待人，对待生活积极向上。但是个人在学习上稍有懈怠，不能严于律己，故容易出现一考试就手忙脚乱的情况。因此我希望在以后能端正好学习态度，认真规划好自己。同时多阅读，多记记英语单词，不断拓宽自己知识面。也希望自己能在大学期间成为不一样的自己！
